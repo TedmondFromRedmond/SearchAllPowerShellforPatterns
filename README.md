@@ -20,7 +20,7 @@ e.g. get-help .\SearchAllPowerShellforPatterns.ps1
 
 **Sample output in CSV format is:**
 FolderandFileName	Pattern	LastWriteTime	FileSize	OccurenceLocations
-D:\Backups\20201019-Backups-Documents\PowerShell\Scripts\mytest.ps1,Get-AzureADUser,Sunday, May 19, 2024 06:18:30 AM,60,3;
+D:\Backups\20201019-Backups-Documents\PowerShell\Scripts\mytest.ps1
 
 
 Future versions could include:
