@@ -18,9 +18,7 @@ e.g. get-help .\SearchAllPowerShellforPatterns.ps1
  * Deprecated Azure cmdlet listings
         https://learn.microsoft.com/en-us/powershell/microsoftgraph/azuread-msoline-cmdlet-map?view=graph-powershell-1.0
 
-**Sample output in CSV format is:**
-FolderandFileName	Pattern	LastWriteTime	FileSize	OccurenceLocations
-D:\Backups\20201019-Backups-Documents\PowerShell\Scripts\mytest.ps1
+**Sample output is in CSV format**
 
 
 Future versions could include:
